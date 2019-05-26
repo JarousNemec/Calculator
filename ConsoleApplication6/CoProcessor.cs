@@ -8,8 +8,6 @@ namespace test_neceho
         private string cislo2 = "";
         private string countOperator = "";
         private string result = "";
-
-        
         
         public string getResult()
         {
@@ -39,7 +37,10 @@ namespace test_neceho
             }
             return result;
         }
-
+    
+        /** Set new operator for two numbers
+         * 
+         */
         public void setOperator(string s)
         {
             countOperator = s;
