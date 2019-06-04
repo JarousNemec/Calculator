@@ -544,7 +544,7 @@ namespace test_neceho
             Console.WriteLine("output " + Output);
             Console.WriteLine("n1     " + Number1);
             Console.WriteLine("n2     " + Number2);
-            Console.WriteLine(ParticalResult);
+            Console.WriteLine("P.Res. "+ParticalResult);
             Console.WriteLine("n1T    " + Number1Text);
             Console.WriteLine("n2T    " + Number2Text);
             Console.WriteLine("cO     " + CountOperator);
